@@ -10,7 +10,6 @@
 - src/components/screenComponents klasörü içerisinde Post kısmı ve post özelliklerinin bulunduğu Post.js bulunmaktadır.
 - src/components/screens klasörü içerisinde Anasayfa'nın genel görünümü ve özelliklerini barındıran Home.js bulunmaktadır.
 - src/storage/images klasörü içerisinde uygulamada kullanılan görseller mevcuttur.
--Projenin genel görünümü şu şekildedir:
 ```
 
 ![Instagram UI Clone 1](https://user-images.githubusercontent.com/26837669/185665260-4b08a41e-19ef-475d-a742-d593bb7ae139.png)
